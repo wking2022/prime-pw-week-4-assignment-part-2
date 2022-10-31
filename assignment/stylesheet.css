@@ -1,0 +1,16 @@
+header {
+    background-color: darkolivegreen;
+    text-align: center;
+}
+h1 {
+    color: lightcyan;
+}
+h2 {
+    color: lightblue;
+}
+main {
+    background-color: lightgray;
+}
+body {
+    margin: 0;
+}
